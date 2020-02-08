@@ -1,2 +1,0 @@
-# LoveonLock
-Created with CodeSandbox
